@@ -24,7 +24,7 @@ image_repositories = []
 
 [default.package]
 [default.package.parameters]
-resolve_s3 = true
+resolve_s3 = false
 
 [default.sync]
 [default.sync.parameters]
